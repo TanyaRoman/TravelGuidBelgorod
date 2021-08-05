@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Путеводитель по Белгороду</string>
+    <string name="title_news">Новости</string>
+    <string name="title_entertainment">Развлечения</string>
+    <string name="title_profile">Профиль</string>
+    <string name="title_shop">Магазин</string>
+
+    <string name="profile_name">Романенкова Татьяна Игоревна</string>
+
+</resources>
